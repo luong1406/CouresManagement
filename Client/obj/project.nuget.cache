@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTTH0P3Je3Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguye\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

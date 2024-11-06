@@ -1,0 +1,731 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\views\\quiz\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\views\\quiz\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\views\\quiz\\attempt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\views\\quiz\\attempt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\views\\course\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\views\\course\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\repositories\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\repositories\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\repositories\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\repositories\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\dto\\studentassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\dto\\studentassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\views\\course\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\views\\course\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\repositories\\quizattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\repositories\\quizattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\repositories\\iquizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\repositories\\iquizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\models\\quizattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\models\\quizattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\dto\\assignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\dto\\assignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\models\\courseenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\models\\courseenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\models\\studentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\models\\studentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\client\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B08182-3B4F-4D46-9BB4-8449CD264585}|Client\\Client.csproj|solutionrelative:client\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|c:\\users\\nguye\\onedrive\\documents\\github\\coursemanagement\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3691F5C-DFC1-4B15-B23A-C5EDA06E0367}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Quiz\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Quiz\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Quiz\\Detail.cshtml",
+              "RelativeToolTip": "Client\\Views\\Quiz\\Detail.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:10:14.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attempt.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Quiz\\Attempt.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Quiz\\Attempt.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Quiz\\Attempt.cshtml",
+              "RelativeToolTip": "Client\\Views\\Quiz\\Attempt.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:10:13.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "API\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:08:54.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Client\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:07:59.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Client\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:07:58.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Client\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:07:23.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Course\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Course\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Course\\Index1.cshtml",
+              "RelativeToolTip": "Client\\Views\\Course\\Index1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:07:14.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\appsettings.json",
+              "RelativeDocumentMoniker": "Client\\appsettings.json",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\appsettings.json",
+              "RelativeToolTip": "Client\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T05:04:11.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:04:13.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Client\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:07:04.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Client\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:06:56.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T05:03:32.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Client\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Client\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T05:05:49.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Client\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:06:55.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:06:49.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "API\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "API\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:35:24.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Client\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:53:03.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "QuizAttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Repositories\\QuizAttendanceRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\QuizAttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Repositories\\QuizAttendanceRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\QuizAttendanceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:06:50.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IQuizRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Repositories\\IQuizRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\IQuizRepository.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Repositories\\IQuizRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\IQuizRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:06:48.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\CourseRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA2wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:06:41.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Client\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:01:15.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:53:13.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentAssignmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\DTO\\StudentAssignmentDTO.cs",
+              "RelativeDocumentMoniker": "API\\DTO\\StudentAssignmentDTO.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\DTO\\StudentAssignmentDTO.cs",
+              "RelativeToolTip": "API\\DTO\\StudentAssignmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:35:25.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IQuestionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Repositories\\IQuestionRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\IQuestionRepository.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Repositories\\IQuestionRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\IQuestionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:35:32.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Repositories\\AssignmentRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\AssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Repositories\\AssignmentRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\AssignmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:35:33.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:35:36.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Models\\User.cs",
+              "RelativeToolTip": "API\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:06:36.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Controllers\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AssignmentController.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Controllers\\AssignmentController.cs",
+              "RelativeToolTip": "API\\Controllers\\AssignmentController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:44:21.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Course\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Course\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Course\\Detail.cshtml",
+              "RelativeToolTip": "Client\\Views\\Course\\Detail.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T17:06:55.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "QuizAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Models\\QuizAttendance.cs",
+              "RelativeDocumentMoniker": "API\\Models\\QuizAttendance.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Models\\QuizAttendance.cs",
+              "RelativeToolTip": "API\\Models\\QuizAttendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:06:34.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AssignmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\DTO\\AssignmentDTO.cs",
+              "RelativeDocumentMoniker": "API\\DTO\\AssignmentDTO.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\DTO\\AssignmentDTO.cs",
+              "RelativeToolTip": "API\\DTO\\AssignmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:05:15.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CourseEnrollment.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Models\\CourseEnrollment.cs",
+              "RelativeDocumentMoniker": "Client\\Models\\CourseEnrollment.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Models\\CourseEnrollment.cs",
+              "RelativeToolTip": "Client\\Models\\CourseEnrollment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:05:09.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "Client\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Models\\Assignment.cs",
+              "RelativeToolTip": "Client\\Models\\Assignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:05:07.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Client\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T17:04:57.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\QuizController.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "API\\Controllers\\QuizController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:04:49.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StudentAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Models\\StudentAssignment.cs",
+              "RelativeDocumentMoniker": "API\\Models\\StudentAssignment.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Models\\StudentAssignment.cs",
+              "RelativeToolTip": "API\\Models\\StudentAssignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:04:26.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Controllers\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\AssignmentController.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Controllers\\AssignmentController.cs",
+              "RelativeToolTip": "Client\\Controllers\\AssignmentController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:05:04.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwCAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:03:20.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T05:05:36.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Client\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T04:46:00.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Client\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Models\\User.cs",
+              "RelativeToolTip": "Client\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:47:47.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\Client\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Client\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:04:59.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Documents\\GitHub\\CourseManagement\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T05:03:13.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
